@@ -1,8 +1,188 @@
 {
   "quotes": [
     {
-      "text": "I am fine!",
-      "author": "pratmex"
+      "text": "The difference between ordinary and extraordinary is that little extra.",
+      "author": "Jimmy Johnson"
+    },
+    {
+      "text": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle"
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha"
+    },
+    {
+      "text": "Doubt kills more dreams than failure ever will.",
+      "author": "Suzy Kassem"
+    },
+    {
+      "text": "The best way to predict the future is to create it.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "text": "Insanity is doing the same thing over and over again and expecting different results.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "The key to success is to focus on the goals, not on the obstacles.",
+      "author": "Thomas Edison"
+    },
+    {
+      "text": "Failure is simply the opportunity to begin again, this time more intelligently.",
+      "author": "Henry Ford"
+    },
+    {
+      "text": "Learning never stops. The minute you think you know it all, you're finished.",
+      "author": "Henry Ford"
+    },
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney"
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha"
+    },
+    {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller"
+    },
+    {
+      "text": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover.",
+      "author": "Mark Twain"
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "text": "You don't have to be great to start, but you have to start to be great.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney"
+    },
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "A journey of a thousand miles begins with a single step.",
+      "author": "Lao Tzu"
+    },
+    {
+      "text": "The difference between ordinary and extraordinary is that little extra.",
+      "author": "Jimmy Johnson"
+    },
+    {
+      "text": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle"
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha"
+    },
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "A journey of a thousand miles begins with a single step.",
+      "author": "Lao Tzu"
+    },
+    {
+      "text": "The difference between ordinary and extraordinary is that little extra.",
+      "author": "Jimmy Johnson"
+    },
+    {
+      "text": "The purpose of life is not to be happy. It is to be useful, to be honorable, to be compassionate, to have it make some difference that you have lived and lived well.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    {
+      "text": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Gautama Buddha"
+    },
+    {
+      "text": "It is better to conquer yourself than to win a thousand battles. For the victory over self is harder won and more lasting.",
+      "author": "Gautama Buddha"
+    },
+    {
+      "text": "The true soldier fights not because he hates what is in front of him, but because he loves what is behind him.",
+      "author": "G.K. Chesterton"
+    },
+    {
+      "text": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+      "author": "Martin Luther King Jr."
+    },
+    {
+      "text": "In the end, it's not the years in your life that count. It's the life in your years.",
+      "author": "Abraham Lincoln"
+    },
+    {
+      "text": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "The man who moves a mountain begins by carrying away small stones.",
+      "author": "Confucius"
+    },
+    {
+      "text": "You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face. You must do the thing you think you cannot do.",
+      "author": "Eleanor Roosevelt"
+    },
+    {
+      "text": "A dream doesn't become reality through magic; it takes sweat, determination, and hard work.",
+      "author": "Colin Powell"
+    },
+    {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney"
+    },
+    {
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha"
+    },
+    {
+      "text": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+      "author": "Helen Keller"
+    },
+    {
+      "text": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover.",
+      "author": "Mark Twain"
+    },
+    {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson"
+    },
+    {
+      "text": "You don't have to be great to start, but you have to start to be great.",
+      "author": "Zig Ziglar"
+    },
+    {
+      "text": "If you can dream it, you can do it.",
+      "author": "Walt Disney"
     }
   ]
 }
