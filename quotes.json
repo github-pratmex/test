@@ -1,6 +1,8 @@
-[
-  {
-    "text": "I am fine!",
-    "author": "pratmex"
-  }
-]
+{
+  [
+    {
+      "text": "I am fine!",
+      "author": "pratmex"
+    }
+  ]
+}
